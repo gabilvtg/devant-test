@@ -7,8 +7,3 @@ title = "MCPTest"
 
 [build-options]
 sticky = true
-
-[[dependency]]
-org = "ballerina"
-name = "mcp"
-version = "1.0.3"
